@@ -2,10 +2,10 @@
 
 ## Working proof statement
 
-> I build clear, reliable ML and data projects that turn messy evidence into useful, honest decisions.
+> I can turn content search-performance data into a transparent, evidence-backed page-review priority queue.
 
-**One person:** a hiring manager or potential internship mentor looking for an early-career ML/data practitioner.  
-**One action:** contact me about an internship, junior role, or project conversation.
+**One person:** a content analytics manager hiring a junior data/ML analyst for a search or content team.
+**One action:** invite me to an interview for a junior data/ML analyst role.
 
 ## Small sitemap
 
@@ -44,7 +44,7 @@ Write the proof statement above the Home box and **“Contact me about an ML/dat
 
 **Custom instructions to paste into Claude:**
 
-> My portfolio must prove: “I build clear, reliable ML and data projects that turn messy evidence into useful, honest decisions.” My primary visitor is a hiring manager or potential internship mentor. The one action I want is: contact me about an internship, junior role, or project conversation. Act as a patient tutor, not a ghostwriter. Ask me for real evidence before making claims; flag vague language, unsupported results, privacy risks, and unnecessary pages. Help me make the smallest portfolio that earns trust. Explain your reasoning in simple language and give me checks I can perform myself.
+> My portfolio must prove: “I can turn content search-performance data into a transparent, evidence-backed page-review priority queue.” My primary visitor is a content analytics manager hiring a junior data/ML analyst for a search or content team. The one action I want is: invite me to an interview for a junior data/ML analyst role. Act as a patient tutor, not a ghostwriter. Ask me for real evidence before making claims; flag vague language, unsupported results, privacy risks, and unnecessary pages. Help me make the smallest portfolio that earns trust. Explain your reasoning in simple language and give me checks I can perform myself.
 
 ## First Claude prompt: pressure-test the sitemap
 
@@ -52,7 +52,7 @@ Write the proof statement above the Home box and **“Contact me about an ML/dat
 
 > Pressure-test this sitemap against my proof statement and one action. For every page, say whether it earns its place. Identify missing proof, duplicate content, or pages I should remove. Recommend the smallest change that would make the path from Home to Contact clearer. Do not invent project results.  
 >  
-> Sitemap: Home → Work (case studies) → About → Contact. The Home page has “View my work” and “Contact me” calls to action. Work case studies include problem, method, evidence, limitations, and outcome. My proof statement is: “I build clear, reliable ML and data projects that turn messy evidence into useful, honest decisions.” My one action is: “Contact me about an internship, junior role, or project conversation.”
+> Sitemap: Home → Work (case studies) → About → Contact. The Home page has “View my work” and “Contact me” calls to action. Work case studies include problem, method, evidence, limitations, and outcome. My proof statement is: “I can turn content search-performance data into a transparent, evidence-backed page-review priority queue.” My one action is: “Invite me to an interview for a junior data/ML analyst role.”
 
 ## Saved pressure-test response (draft)
 
